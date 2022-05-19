@@ -20,6 +20,4 @@ Describe typical classes found in project
 
 """
 
-from .sample_module import SampleClassName
-
-__all__ = ['SampleClassName']
+from .fabrication_task import *
